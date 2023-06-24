@@ -1,0 +1,14 @@
+{
+   "student": {
+      "age": 22,
+      "score": 99,
+      "name": "Anna"
+   },
+   "school": {
+      "name": "university",
+      "address": {
+         "street": "Azatutyan",
+         "number": 24
+      }
+   }
+}
